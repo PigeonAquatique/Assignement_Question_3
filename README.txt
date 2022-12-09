@@ -7,4 +7,4 @@ Rscript src/combine-data.R
 Rscript src/make-plot.R
 ```
 
-The input data is in `data` and the results are in `out`.
+The input data is in `data`, the scripts are in `src`, and the results are in `out`.
